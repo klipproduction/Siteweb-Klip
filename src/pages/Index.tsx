@@ -36,7 +36,7 @@ const Index = () => {
         className="fixed inset-0 opacity-30 animate-float z-0"
         style={{
           // Use the new local assets directory instead of the Lovable‑specific path
-          backgroundImage: `url(/assets/58934c74-c342-4b62-88fc-f67802d104c6.png)`,
+          backgroundImage: `url(/assets/58934c74-c342-4b62-88fc-f67802d104c6.webp)`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat'

@@ -57,7 +57,7 @@ const Testimonials = () => {
         className="absolute inset-0 opacity-30"
         style={{
           // Use the new assets directory instead of the Lovable-specific uploads
-          backgroundImage: `url(/assets/164bacd9-84c3-4c70-a374-8d983eb753b2.png)`,
+          backgroundImage: `url(/assets/164bacd9-84c3-4c70-a374-8d983eb753b2.webp)`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat'
